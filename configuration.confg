@@ -1,0 +1,19 @@
+Name: Oracle
+
+Commands: commands.txt
+
+Responces: reponces.txt
+
+Voice: British-English
+
+Users: "Mr.Riley",
+
+modes: silent, normal, do-not-desturb, night-time
+
+Time-zone: MST (US)
+
+Country: United states
+
+external-programs: "Google Chrome","Chrome": C:\Program Files (x86)\Google\Chrome|
+
+END

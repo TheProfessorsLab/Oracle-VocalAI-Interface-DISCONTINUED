@@ -1,8 +1,23 @@
 Hello
-Goodbye
+
+Goodbye|shutdown|exit|stop
+
 What is your name?
+
 What is my name?
+
 What time is it?
+
 What is today's date?
+
 Tell me a joke
-How are you?/System Stadus/Stadus/Diagnostic sub-routine/Diagnostics
+
+How are you?|System Stadus|Stadus|Diagnostic sub-routine|Diagnostics
+
+open (program)
+
+search for (query)|search (search-engine) for (query)
+
+Reboot|restart
+
+shush|be quiet|quiet|not right now|stop talking

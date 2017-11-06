@@ -1,7 +1,16 @@
-Hello (name)
-Goodbye (name)
-I am Oracle
-(name)
-It is **:**
+Hello (user)
+
+Goodbye (user)
+
+I am (name)| My name is (name)
+
+(user)| your name is (user)
+
+It is **:** (AM or PM)
+
 Today is (weekday),(month),(year)
-I'm sorry, (name) but I can't do that
+
+I'm sorry, (user) but I can't do that
+
+Opening (program)|Shure|shure opening (program)
+

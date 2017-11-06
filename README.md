@@ -7,7 +7,7 @@ commands are in the command.txt file. you can add your own commands in this file
 
 Responces are in the responces.txt file. you can add your own responces in this file
 
-individual commands are seperated by a space/ newline. and commands to invoke the same responce(s) are seperated by a slash: /
+individual commands are seperated by a space/ newline. and commands to invoke the same responce(s) are seperated by a Pipe:|
 
 individual responces are seperated by a space/ newline. and responces related to the same same command(s) are seperated by a pipe:|
 

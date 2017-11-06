@@ -1,7 +1,7 @@
 # Oracle-VocalAI-Interface
 A custom version of J.A.R.V.I.S. made to be A personal digital assistant with custom commands & responses and web integration with google, Microsoft, and WolframAlpha.
 
-you can customize the interface using the configuration file: configuration.confg
+you can customize the interface using the configuration file: configuration.xml
 
 commands are in the command.txt file. you can add your own commands in this file to add your own custom functionality.
 
@@ -11,4 +11,4 @@ individual commands are seperated by a space/ newline. and commands to invoke th
 
 individual responces are seperated by a space/ newline. and responces related to the same same command(s) are seperated by a pipe:|
 
-
+please read the copyright file as it contains the software licence for the vocalAI Oracle

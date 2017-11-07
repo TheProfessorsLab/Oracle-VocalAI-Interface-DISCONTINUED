@@ -1,0 +1,16 @@
+Hello (user)
+
+Goodbye (user)
+
+I am (name)| My name is (name)
+
+(user)| your name is (user)| you are (user)
+
+It is **:** (AM or PM)
+
+Today is (weekday),(month),(year)| Today is (weekday),(daynum),(month),(year)
+
+I'm sorry, (user) but I can't do that
+
+Opening (program)|Shure|shure opening (program)| ok opening| opening
+
